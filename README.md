@@ -1,4 +1,4 @@
-## Hello! Welcome to *my world!* 🌌
+## Hello! Welcome to *Vick's world!* 🌌
 
  <div>
    <a href="https://github.com/ma-vick">
