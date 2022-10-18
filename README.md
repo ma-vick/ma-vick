@@ -1,4 +1,12 @@
-## Hello! Welcome to *Vick's world!* 🌌
+## Olá, eu sou a Vick! 🌌
+
+- 🌱 Estudando atualmente HTML5, CSS3 e JS.
+
+- 🔮 Apaixonada por inventar e criar desde cedo, me descobri na programção.
+
+- 🎯 Almejo em um dia trabalhar com Inteligência Artificial.
+
+<br>
 
  <div>
    <a href="https://github.com/ma-vick">
