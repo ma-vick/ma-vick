@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vick! 🌌
 
-- 🌱 Estudando atualmente HTML5, CSS3, JS e REACTJS.
+- 🌱 Estudando atualmente HTML5, CSS3, JS e React.
 
 - 🔮 Apaixonada por inventar e criar desde cedo, me descobri na programção.
 
