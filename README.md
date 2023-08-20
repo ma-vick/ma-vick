@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vick! 🌌
 
-- 🌱 Estudando atualmente ReactJS, Machine Learning.
+- 🌱 Estudando atualmente ReactJS, Java.
 
 - 🔮 Apaixonada por inventar e criar desde cedo, me descobri na programção.
 
